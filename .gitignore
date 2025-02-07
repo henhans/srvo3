@@ -169,3 +169,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# QE solid_dmft ghostGA
+QE_tmp/
+*.chk
+*.dat* 
+*.wout
+*.eig 
+*.out 
+*.gnu
+*.h5 
+*.err
+*.kpt
+*.mmn
+*.nnkp
+*.mat
+*.amn
